@@ -46,7 +46,7 @@ export const Hero: React.FC = () => {
             </h1>
             
             <p className="text-xl text-gray-600 max-w-lg mx-auto lg:mx-0 leading-relaxed font-medium">
-              Welcome to Tana's Grooming. We combine professional styling with a calm, gentle environment to make your pet look and feel their best.
+              Welcome to Plush Puppy Dog Grooming. We combine professional styling with a calm, gentle environment to make your pet look and feel their best.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-2">

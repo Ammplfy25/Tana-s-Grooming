@@ -39,7 +39,7 @@ export const Navbar: React.FC = () => {
               <PawPrint size={24} fill="currentColor" />
             </div>
             <span className="font-heading font-bold text-xl sm:text-2xl text-gray-800 tracking-tight">
-              Tana's <span className="text-orange">Grooming</span>
+              Plush Puppy <span className="text-orange">Dog Grooming</span>
             </span>
           </Link>
 

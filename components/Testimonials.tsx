@@ -15,7 +15,7 @@ const testimonials: Testimonial[] = [
     id: '2',
     name: 'Michael Chen',
     role: 'Owner of Mochi (Shiba Inu)',
-    comment: "Mochi is usually very anxious with nail trims, but the team at Puppy Love was so patient. They took their time and used treats to keep him calm. Highly recommend!",
+    comment: "Mochi is usually very anxious with nail trims, but the team at Plush Puppy was so patient. They took their time and used treats to keep him calm. Highly recommend!",
     rating: 5,
     avatarUrl: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80'
   },

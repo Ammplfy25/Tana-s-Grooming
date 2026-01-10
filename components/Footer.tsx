@@ -12,8 +12,8 @@ export const Footer: React.FC = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2 mb-4">
               <PawPrint size={32} className="text-peach" />
-              <span className="font-heading font-bold text-2xl tracking-tight">
-                Tana's Grooming
+              <span className="font-heading font-bold text-xl tracking-tight">
+                Plush Puppy Dog Grooming
               </span>
             </div>
             <p className="text-white/80 text-sm leading-relaxed">
@@ -66,7 +66,7 @@ export const Footer: React.FC = () => {
               </li>
               <li className="flex items-center space-x-3 text-white/80 text-sm">
                 <Mail size={18} className="flex-shrink-0 text-peach" />
-                <span>tanasgrooming@gmail.com</span>
+                <span>hello@plushpuppygrooming.com</span>
               </li>
             </ul>
           </div>
@@ -92,7 +92,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-white/60">
-          <p>&copy; 2024 Tana's Grooming. All rights reserved.</p>
+          <p>&copy; 2024 Plush Puppy Dog Grooming. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-white">Privacy Policy</a>
             <a href="#" className="hover:text-white">Terms of Service</a>

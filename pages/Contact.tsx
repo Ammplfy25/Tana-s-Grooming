@@ -46,7 +46,7 @@ export const Contact: React.FC = () => {
                    </div>
                    <div>
                      <p className="font-bold text-gray-900">Email Us</p>
-                     <p className="text-gray-600">tanasgrooming@gmail.com</p>
+                     <p className="text-gray-600">hello@plushpuppygrooming.com</p>
                    </div>
                  </div>
                </div>
